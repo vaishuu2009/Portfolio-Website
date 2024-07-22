@@ -1,0 +1,13 @@
+Introduction
+ This work aims to report the process of designing and developing a web
+portfolio for a graduating bachelor design student specializing in web design
+and development. It will define what a portfolio website is, it will also explain
+the basic theory and elements of an online portfolio design process. Further
+this work presents different ways and channels through which a design
+student can create and develop a personal online portfolio. By covering
+aspects such as: how to integrate personal visual identity and what is
+required to build an effective portfolio. In order to carry out this process, it is
+essential to understand various strategies and techniques that are used to
+today, while acquiring skill full understanding of modern tools and trendsn . 
+                   A personal portfolio website is a website that showcases an individual's skills, accomplishments, and projects. It is a valuable tool for professionals in various fields, including artists, designers, developers, writers, and other creatives, to showcase their work and attract potential clients or employer’s. A personal portfolio website typically includes an "about" section that introduces the individual and their background, a portfolio section that showcases their work, a contact page that provides a way for visitors to get in touch, and often a blog section where the individual can share their thoughts, ideas, and experiences.                        
+                          Developing a personal portfolio website requires a combination of technical and creative skills. It involves designing and coding a website that is visually appealing, easy to navigate, and showcases the individual's work effectively. It also requires the ability to write compelling copy, choose appropriate images, and present information in a clear and concise manner. Creating a personal portfolio website can be a valuable investment in one's career. It can help individuals establish their brand, showcase their skills and achievements, and attract new clients or job opportunities.

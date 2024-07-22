@@ -1,0 +1,12 @@
+1.	Software and Hardware Requirements
+	4.1	Software Requirements		
+	4.2	Hardware Requirements		
+	4.3	Non-Functional Requirements
+2.	Implementation
+	5.1	Code Documentation
+	5.2	Algorithm/Methodologies/Protocols used
+3.	Results
+4.	Challenges faced
+5.	 Conclusion
+Bibilography
+
